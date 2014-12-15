@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">SIM Toolkit</string> 
+  <string name="app_name2">SIM Toolkit2</string> 
+  <string name="app_name3">SIM Toolkit3</string> 
+  <string name="menu_end_session">Завершить сеанс</string> 
+  <string name="help">Помощь</string> 
+  <string name="menu_back">Назад</string> 
+  <string name="service_name">Служба имен</string> 
+  <string name="stk_no_service">Нет доступных услуг</string> 
+  <string name="button_ok">ОК</string> 
+  <string name="button_cancel">Отменить</string> 
+  <string name="button_yes">Да</string> 
+  <string name="button_no">Нет</string> 
+  <string name="alphabet">Алфавит</string> 
+  <string name="digits">Цифры (0-9, *, #, +)</string> 
+  <string name="default_call_setup_msg">Вызов в процессе...</string> 
+  <string name="default_setup_call_msg">Установка вызова</string> 
+  <string name="stk_app_state">Состояние приложения</string> 
+  <string name="enable_app">Разрешено</string> 
+  <string name="disable_app">Запрещено</string> 
+  <string name="stk_dialog_title">SIM ToolKit</string> 
+  <string name="default_tone_dialog_msg">Играть Tone</string> 
+  <string name="default_open_channel_msg">Открыть канал?</string> 
+  <string name="default_send_data_msg">Отправка данных</string> 
+  <string name="default_receive_data_msg">Получение данных</string> 
+  <string name="default_close_channel_msg">Канал Закрыт</string> 
+  <string name="stk_dialog_accept">ДА</string> 
+  <string name="stk_dialog_reject">НЕТ</string> 
+</resources>

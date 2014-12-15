@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="altitude">%.1f</string>
+     <string name="altitude_title">Высота, у/м</string>
+     <string name="altitude_unit">м.</string>
+     <string name="app_label">Компас</string>
+     <string name="calibrate_altitude">Настройка…</string>
+     <string name="calibrate_failed">Калибровка высоты (над уровнем моря) не удалась</string>
+     <string name="calibrate_failed_no_location">"Не могу произвести настройку"</string>
+     <string name="calibrate_failed_timeout">"Не могу соединиться с сервером"</string>
+     <string name="calibrate_success">Настройка завершена</string>
+     <string name="cannot_get_location">--</string>
+     <string name="dialog_calibrat_altitude">Настройка…</string>
+     <string name="dialog_title_no_network">"Не могу подсоединиться к сети"</string>
+     <string name="direction_east">В</string>
+     <string name="direction_north">С</string>
+     <string name="direction_north_east">СВ</string>
+     <string name="direction_north_west">СЗ</string>
+     <string name="direction_south">Ю</string>
+     <string name="direction_south_east">ЮВ</string>
+     <string name="direction_south_west">ЮЗ</string>
+     <string name="direction_west">З</string>
+     <string name="do_not_show_next_time">"Больше не показывать"</string>
+     <string name="getting_location">Настройка…</string>
+     <string name="guide_toast">Чтобы настроить компас двигайте ваш смартфон по схеме направлений указанной ниже</string>
+     <string name="latitude">ШИР.</string>
+     <string name="location_east">ВОС</string>
+     <string name="location_enable">Разрешить</string>
+     <string name="location_enable_later">Позже</string>
+     <string name="location_enabled">Вы можете отключить сервисы определения местоположения в любое время в настройках.</string>
+     <string name="location_north">СЕВ</string>
+     <string name="location_not_enabled_summary">Для нормальной работы необходима информация о вашем местоположении.</string>
+     <string name="location_not_enabled_title">Служба местоположения</string>
+     <string name="location_south">ЮГ</string>
+     <string name="location_west">ЗАП</string>
+     <string name="longitude">ДОЛ.</string>
+     <string name="menu_calibrate">Настройка компаса</string>
+     <string name="mobiledata_alert_dialog_message">Подключиться к интернету, чтобы выполнить калибровку?</string>
+     <string name="mobiledata_alert_dialog_title">Предупреждение об использовании данных</string>
+     <string name="pressure">%.1f</string>
+     <string name="pressure_title">Давление</string>
+     <string name="pressure_unit">гПа</string>
+     <string name="shake_enter_tip">Встряхнуть, чтобы откалибровать</string>
+     <string name="using_camera_confirm_cancel">Выход</string>
+     <string name="using_camera_confirm_message">"Для корректной работы Компас нужно использовать сетевое подключение вашего устройства и камеру."</string>
+     <string name="using_camera_confirm_ok">Подтверждаю</string>
+     <string name="using_camera_confirm_title">Разрешение на допуск</string>
+</resources>

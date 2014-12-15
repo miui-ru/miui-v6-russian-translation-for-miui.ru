@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <plurals name="v5_edit_mode_title">
+        <item quantity="other">%1$d выбрано</item>
+        <item quantity="one">%1$d выбран</item>
+     </plurals>
+     <plurals name="webview_last_num_days">
+        <item quantity="other">Последние %d дней</item>
+     </plurals>
+     <plurals name="webview_matches_found">
+        <item quantity="one">Совпадений: 1</item>
+        <item quantity="other">%1$d из %2$d</item>
+     </plurals>
+</resources>

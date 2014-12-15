@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string-array name="cdma_system_select_choices">
+        <item>Только домашняя</item>
+        <item>Автоматически</item>
+     </string-array>
+     <string-array name="ims_call_cap_types">
+        <item>Голос</item>
+        <item>Видео</item>
+     </string-array>
+     <string-array name="ims_call_types">
+        <item>Голос</item>
+        <item>Видео</item>
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="ims_video_cs_call_types">
+        <item>Видео</item>
+        <item>CSVoice</item>
+     </string-array>
+     <string-array name="ims_voice_cs_call_types">
+        <item>Голос</item>
+        <item>CSVoice</item>
+     </string-array>
+</resources>

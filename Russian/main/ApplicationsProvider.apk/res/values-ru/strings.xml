@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="app_label">Провайдер поиска приложений</string>
+     <string name="application_desc">Приложение</string>
+     <string name="search_label">Приложения</string>
+     <string name="settings_description">Наименования установленных приложений</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <string name="agree">Подтверждаю</string>
+     <string name="congratulation_label">Наслаждайтесь свои смартфоном :)</string>
+     <string name="congratulation_next">ОК</string>
+     <string name="disagree">Отмена</string>
+     <string name="ime_privacy_policy">Политика конфиденциальности для выбранной клавиатуры</string>
+     <string name="ime_privacy_policy_no_network">"Не удается подключиться к Интернету. Ознакомьтесь с Политикой конфиденциальности для этой клавиатуры на %s."</string>
+     <string name="input_method_category">Выберите метод ввода по умолчанию</string>
+     <string name="input_method_setting">Выберите метод ввода</string>
+     <string name="locale_picker_confirm_dialog_desc">"Установить %s в качестве вашего размещения? "</string>
+     <string name="locale_picker_confirm_dialog_title">Выберите размещение</string>
+     <string name="locale_picker_desc">"Если вы захотите изменить свое местоположение в дальнейшем, вам нужно сбросить устройство к заводским настройкам."</string>
+     <string name="locale_picker_title">Выберите размещение</string>
+     <string name="logo_congratulation">"Установка завершена!"</string>
+     <string name="miui_privacy_policy_no_network">"Вы не подключены к сети. Ознакомьтесь с условиями Политики конфиденциальности %s"</string>
+     <string name="miui_terms_no_network">"Вы не подключены к сети. Ознакомьтесь с условиями Пользовательского соглашения %s"</string>
+     <string name="multisim_settings_category">Установки SIM-карты</string>
+     <string name="multisim_settings_title">Обнаружено 2 SIM-карты</string>
+     <string name="network_access_warning">Вам необходимо подключиться к Интернету, чтобы активировать Mi-Сервисы.</string>
+     <string name="next">Следуюший</string>
+     <string name="other_settings">Дополнительные настройки</string>
+     <string name="other_settings_location">Доступ к местоположению</string>
+     <string name="other_settings_location_summary">Разрешить картам и другим приложениям определять местоположение с помощью GPS</string>
+     <string name="other_settings_user_experience">Повышение качества</string>
+     <string name="other_settings_user_experience_summary">Помогите Xiaomi улучшать свои продукты и услуги путем отправки анонимных отчетов (%s)</string>
+     <string name="other_settings_user_experience_summary1">ознакомиться с Политикой конфиденциальности</string>
+     <string name="pref_title_data_slot">Предпочтение SIM-карты для передачи данных</string>
+     <string name="pref_title_voice_slot">Предпочтение голосовой SIM-карты</string>
+     <string name="privacy_policy">Политика конфиденциальности</string>
+     <string name="provision_inputmethod_policy_description">"Просмотр выбранной клавиатуры "</string>
+     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
+     <string name="setting_locale">Настройка местоположения…</string>
+     <string name="shut_down">Отключить</string>
+     <string name="sim_card_detecting">Проверка SIM-карты…</string>
+     <string name="sim_card_detection">Вставьте SIM-карту</string>
+     <string name="sim_card_detection_info">Чтобы вставить SIM-карту, прочитайте инструкцию, прилагаемую к устройству.</string>
+     <string name="sim_dectection_next">Продолжить</string>
+     <string name="sim_redetection">Проверьте SIM-карту еще раз</string>
+     <string name="summary_not_set">Не установлена</string>
+     <string name="summary_sim_card">Карта %1$d%2$s</string>
+     <string name="terms_of_use">Условия предоставления услуг</string>
+     <string name="terms_of_use_label">"Ваша конфиденциальность очень важна для нас. Пожалуйста, ознакомьтесь с нашими Условиями предоставления услуг и Политикой конфиденциальности чтобы понять, какую информацию мы собираем, как мы ее используем и то, что доступно для вашего выбора.
+
+Вы должны принять Пользовательское соглашение и Политику конфиденциальности, чтобы начать использовать MIUI."</string>
+     <string name="user_agreement">Пользовательское соглашение</string>
+     <string name="welcome">Добро пожаловать</string>
+</resources>

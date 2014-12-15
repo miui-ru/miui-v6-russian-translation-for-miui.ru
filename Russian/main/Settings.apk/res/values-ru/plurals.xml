@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+     <plurals name="lockpassword_password_requires_letters">
+        <item quantity="one">Пароль должен содержать хотя бы 1 букву</item>
+        <item quantity="other">Пароль должен содержать буквы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="one">Пароль должен содержать хотя бы 1 строчную букву</item>
+        <item quantity="other">Пароль должен содержать строчные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="one">Пароль должен содержать хотя бы 1 небуквенный символ</item>
+        <item quantity="other">Пароль должен содержать небуквенные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="one">Пароль должен содержать хотя бы 1 цифру</item>
+        <item quantity="other">Пароль должен содержать цифры (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="one">Пароль должен содержать хотя бы 1 специальный символ</item>
+        <item quantity="other">Пароль должен содержать специальные символы (не менее %d)</item>
+     </plurals>
+     <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="one">Пароль должен содержать хотя бы 1 заглавную букву</item>
+        <item quantity="other">Пароль должен содержать заглавные буквы (не менее %d)</item>
+     </plurals>
+     <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="one">Приложений читающих уведомления: %d</item>
+        <item quantity="other">Приложений читающих уведомления: %d</item>
+     </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%ddní "</item>
+        <item quantity="one">"%ddeň "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%dh "</item>
+        <item quantity="one">"%dh "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%dmin "</item>
+        <item quantity="one">"%dmin "</item>
+     </plurals>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="one">Найдено принтеров: %1$s</item>
+        <item quantity="other">Найдено принтеров: %1$s</item>
+     </plurals>
+     <plurals name="show_cit_countdown">
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от тестирования устройства.</item>
+        <item quantity="one">Теперь вы находитесь в %1$d шаге от тестирования устройства.</item>
+     </plurals>
+     <plurals name="show_dev_countdown">
+        <item quantity="one">Теперь вы находитесь в %1$d шаге от становления разработчиком.</item>
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от становления разработчиком.</item>
+     </plurals>
+     <plurals name="show_pho_countdown">
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от просмотра информации об устройстве.</item>
+        <item quantity="one">Теперь вы находитесь в %1$d шаге от просмотра информации об устройстве.</item>
+     </plurals>
+     <plurals name="show_rep_countdown">
+        <item quantity="other">Теперь вы находитесь в %1$d шагах от отправки отчета.</item>
+        <item quantity="one">Теперь вы находитесь в %1$d шаге от отправки отчета.</item>
+     </plurals>
+     <plurals name="wrong_pin_code">
+        <item quantity="one">Неверный PIN-код SIM-карты. Осталось попыток: %d перед тем, как Вы должны будете связаться с оператором для разблокировки устройства.</item>
+        <item quantity="other">Неверный PIN-код SIM-карты. Осталось попыток: %d.</item>
+     </plurals>
+</resources>

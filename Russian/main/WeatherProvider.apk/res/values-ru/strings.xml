@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart2a -->
+<resources>
+  <string name="app_label">Провайдер Погода</string>
+  <string name="aqi_quality_index_break">ИЗА %1$s</string>
+  <string name="aqi_quality_index_dangerous">ИЗА %1$s</string>
+  <string name="aqi_quality_index_good">ИЗА %1$s</string>
+  <string name="aqi_quality_index_hazardous">ИЗА %1$s</string>
+  <string name="aqi_quality_index_light_pollution">ИЗА %1$s</string>
+  <string name="aqi_quality_index_moderate">ИЗА %1$s</string>
+  <string name="aqi_quality_index_pure">ИЗА %1$s</string>
+  <string name="aqi_quality_index_unhealthy">ИЗА %1$s</string>
+  <string name="view_indexes_wind_unit">км/ч</string>
+  <string name="view_realtime_clear_substitution">Ясно</string>
+</resources>
